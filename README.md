@@ -51,4 +51,6 @@ On Windows PowerShell:
 The application saves records to text files and loads them on startup, allowing data to remain available after the program closes.
 
 ## Author
-Student project submission.
+Jitanshu Nirmal Borana
+Enrollment Number:IU2541230538
+Project Code:CPP63
